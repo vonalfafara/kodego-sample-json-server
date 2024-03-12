@@ -5,35 +5,40 @@
       "brand": "Toyota",
       "transmission": "Automatic",
       "mileage": 200,
-      "price": 90000
+      "price": 90000,
+      "image": "./public/car.jpg"
     },
     {
       "id": "2",
       "brand": "Suzuki",
       "transmission": "Manual",
       "mileage": 150,
-      "price": 50000
+      "price": 50000,
+      "image": "./public/car.jpg"
     },
     {
       "id": "3",
       "brand": "Volkswagen",
       "transmission": "Automatic",
       "mileage": 250,
-      "price": 70000
+      "price": 70000,
+      "image": "./public/car.jpg"
     },
     {
       "id": "4",
       "brand": "Tesla",
       "transmission": "Automatic",
       "mileage": 400,
-      "price": 40000
+      "price": 40000,
+      "image": "./public/car.jpg"
     },
     {
       "id": "230b",
       "brand": "Lamborghini",
       "transmission": "Automatic",
       "mileage": 600,
-      "price": 100000
+      "price": 100000,
+      "image": "./public/car.jpg"
     }
   ]
 }
