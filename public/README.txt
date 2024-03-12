@@ -1,0 +1,1 @@
+To access the images directory in the browser, just visit this endpoint: /images/car.jpg
